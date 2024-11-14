@@ -1,10 +1,6 @@
-# Hello-Git
+# Javier Salcedo
 
-Prueba.
+## Esta es una prueba de pagina web
 
-
-Estoy haciendo un cambio
-
-Estoy haciendo un cambio desde mi pc en local
-
-# Estoy haciendo un cambio
+Esta pagina web esta alojada en un repositorio de github que he usado para hacer pruebas.
+Ademas este repositorio lo use para aprender a usar Git y GitHub.
