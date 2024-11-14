@@ -11,8 +11,12 @@
     <h1>Ejecutar Python en el navegador</h1>
     <py-env>
         - pandas
+        - micropip
     </py-env>
-    <py-script>
+    <py-script> 
+        import micropip 
+        async def install_pandas():
+                await micropip.install("pandas")
 
 
 
