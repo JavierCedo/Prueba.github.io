@@ -7,6 +7,3 @@ def translate_english(event):
     english = input_text.value
     output_div = document.querySelector("#output")
     output_div.innerText = arrr.translate(english)
-
-
-print("Ya se puede crear una pagina web")
